@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MyFirstPlayGround
 //
-//  Created by MCS on 8/20/16.
+//  Created by jose on 8/20/16.
 //  Copyright © 2016 myOrganization. All rights reserved.
 //
 
